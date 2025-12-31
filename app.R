@@ -218,7 +218,7 @@ ui <- fluidPage(
     "))
   ),
   
-  titlePanel("🍽️ Smart Restaurant — shinylive (JS fetch + R pricing)"),
+  titlePanel("🍽️ Smart Restaurant — shinylive"),
   
   div(
     class = "panel",
